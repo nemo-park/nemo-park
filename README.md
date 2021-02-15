@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
 
-### :pencil2: BOJ Algorithm 👋
+### :pencil2: BOJ Algorithm 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nemo_pk)](https://solved.ac/nemo_pk)
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nemo_pk)](https://solved.ac/nemo_pk) 
