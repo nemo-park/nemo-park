@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nemo-park/nemo-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :pencil2: BOJ Algorithm 
+### :pencil2: BOJ Algorithm 👋
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nemo_pk)](https://solved.ac/nemo_pk)
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nemo_pk)](https://solved.ac/nemo_pk) 
